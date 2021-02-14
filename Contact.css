@@ -41,6 +41,10 @@
   margin: 20px 0 0;
 }
 
+.u-section-1 .u-btn-1 {
+  padding: 0;
+}
+
 .u-section-1 .u-layout-cell-2 {
   min-height: 369px;
 }
@@ -66,7 +70,7 @@
   margin: 18px 18px 0;
 }
 
-.u-section-1 .u-btn-1 {
+.u-section-1 .u-btn-2 {
   padding: 0;
 }
 
@@ -96,7 +100,7 @@
   margin: 81px 18px 0 32px;
 }
 
-.u-section-1 .u-btn-2 {
+.u-section-1 .u-btn-3 {
   padding: 0;
 }
 
