@@ -10,7 +10,7 @@
 .u-section-1 .u-image-1 {
   width: 496px;
   height: 346px;
-  margin: 0 auto 0 322px;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-text-1 {
@@ -24,13 +24,22 @@
   margin: -77px 255px 0 auto;
 }
 
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  margin: 24px auto 0;
+  padding: 25px 64px 26px 62px;
+}
+
 .u-section-1 .u-social-icons-1 {
   white-space: nowrap;
   height: 142px;
   min-height: 16px;
-  width: 695px;
+  width: 694px;
   min-width: 190px;
-  margin: 408px auto 60px 222px;
+  margin: 63px auto 60px;
 }
 
 .u-section-1 .u-icon-2 {
@@ -54,38 +63,63 @@
     min-height: 1053px;
   }
 
+  .u-section-1 .u-text-1 {
+    margin-top: 29px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -101px;
+    margin-right: 115px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 20px;
+  }
+
   .u-section-1 .u-social-icons-1 {
     height: 65px;
     width: 386px;
-    margin-left: 277px;
+    margin-top: 132px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 807px;
+    min-height: 900px;
   }
 
-  .u-section-1 .u-image-1 {
-    margin-left: 224px;
+  .u-section-1 .u-icon-1 {
+    margin-top: -96px;
+    margin-right: 56px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 16px;
   }
 
   .u-section-1 .u-social-icons-1 {
-    margin-left: 155px;
+    margin-top: 72px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 605px;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-left: 44px;
+    min-height: 840px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
+  }
+
+  .u-section-1 .u-icon-1 {
+    height: 83px;
+    width: 83px;
+    margin-top: -47px;
+    margin-right: 22px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 21px;
   }
 
   .u-section-1 .u-social-icons-1 {
@@ -95,7 +129,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 272px;
+    min-height: 50vw;
   }
 
   .u-section-1 .u-image-1 {
@@ -106,10 +140,17 @@
   }
 
   .u-section-1 .u-icon-1 {
-    margin-right: 203px;
+    margin-top: -140px;
+    margin-right: -11px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 101px;
   }
 
   .u-section-1 .u-social-icons-1 {
+    margin-top: 69px;
     margin-left: -23px;
+    margin-right: -23px;
   }
 }
