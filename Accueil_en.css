@@ -459,7 +459,6 @@
   }
 }.u-section-1 {
   background-image: url("images/1R9A4863.jpg");
-  background-position: 50% 81.74%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -551,7 +550,6 @@
 .u-section-2 .u-group-1 {
   width: calc(((100% - 1140px) / 2) + 570px);
   min-height: 577px;
-  height: auto;
   margin: -530px 0 36px auto;
 }
 
@@ -574,13 +572,13 @@
 }
 
 .u-section-2 .u-text-3 {
-  margin: 17px 0 0;
+  margin: 20px 0 0;
 }
 
 .u-section-2 .u-btn-1 {
   border-style: solid;
   background-image: none;
-  margin: 23px auto 0 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-2 .u-image-2 {
